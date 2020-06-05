@@ -14,3 +14,6 @@ osu!.cdwcgt.cfg
 *.db
 presence.db
 osu!.db
+*.jpeg
+osu!.db
+presence.db
