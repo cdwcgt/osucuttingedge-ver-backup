@@ -1,19 +1,4 @@
-
-*.log
-Localisation/zh-CN.txt.new
-*.jpg
-*.osz
+*/
 repair osu!.lnk
-osu!.cdwcgt.cfg
-*.png
-*.mp3
+osu!.*.cfg
 *.db
-*.osu
-*.wav
-*.osb
-*.db
-presence.db
-osu!.db
-*.jpeg
-osu!.db
-presence.db
